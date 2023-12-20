@@ -106,7 +106,13 @@ html, body {
 
 
 
-
+.Certificate {
+    display: flex;
+    flex-direction: column;
+    justify-content:  center;
+    align-items: center;
+    gap: 20px;
+}
 
 .bottom-footer {
     background-color: rgb(94, 94, 94);
