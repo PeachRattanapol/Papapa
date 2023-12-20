@@ -4,7 +4,10 @@ html, body {
     padding: 0;
     font-family: 'Athiti', sans-serif;
     font-family: 'Poppins', sans-serif;
+    display: flex;
+    flex-direction: column;
 }
+
 
 .top-header {
     text-align: center;
@@ -74,15 +77,6 @@ html, body {
 .image {
     width: 50%;
 }
-
-.buttton {
-    color: white;
-    background-color: black;
-    padding: 10px;
-    text-decoration: none;
-    display: inline-block;
-}
-
 
 
 .flexbox {
