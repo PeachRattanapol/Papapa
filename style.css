@@ -16,6 +16,10 @@ html, body {
     right: 0;
 }
 
+.home-main {
+    text-decoration: right;
+    padding: 0;
+}
 .menu-item {
     color: white;
     padding: 15px;
