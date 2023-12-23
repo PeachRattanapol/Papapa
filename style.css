@@ -34,11 +34,9 @@ html, body {
     float: left;
     margin-right: 10;
     margin-left: 0;
-
 }
 
 .clear-paragraph {
-    text-align: center;
     margin-top: 230px;
     margin-bottom: 0%;
     text-shadow: 20px 10px 11px 2px rgba(0, 0, 0, 0.29);
